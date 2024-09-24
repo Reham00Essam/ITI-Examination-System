@@ -1,0 +1,31 @@
+Mapping
+-----------
+
+Department [ Deptartment_ID.PK ,Department_Name,Ins_Id.FK]
+
+Instructor [Ins_Id.PK, Ins_Fname,Ins_Lname,Ins_Email,Manger_Id.FK]
+
+Exam [Exam_Id.PK,Start_Time,End_Time,Date,Ins_Id.FK]
+
+Questions [Question_Id,Question_Type,Question_Text,Degree]
+
+Intake [Intake_Id.pk,Intake_Name,Department_ID.FK]
+
+Track [Track_Id.PK,Track_Name,Intake_Id.FK]
+
+Student [ Student_Id.PK,Stud_Fname,Stud_Lname,stud_Email,Track_id.FK]
+
+Course [Crs_Id.Pk,Crs_Name,Description,Pass_Degree,Degree]
+
+Topic [ Topic_Id,Topic_Name,Crs_Id.FK]
+
+
+Student_Course [st_crs_Id pk, st_Degree,Student_Id.FK,Crs_Id.FK)
+
+Exam_Qusetion [ Exam_Question_Id.PK,Exam_Id.FK , Question_Id.FK]
+
+Instructor_Course [ Ins_Crs_Id, Ins_Id.FK,Crs_Id.FK]
+
+Answer [Answer_Id.PK,Question_Grade,Student_Answer,Exam_Id.FK,Student_Id.FK,Course_Id.FK]
+
+

@@ -1,0 +1,524 @@
+Topic_Id,Topic_Name,Course_Id
+1,Spatial Data Analysis,1
+2,Cartography Design,1
+3,Mobile GIS Apps,2
+4,Web Mapping Tools,2
+5,Image Classification,3
+6,Change Detection,3
+7,Window Functions,4
+8,CTEs and Recursive Queries,4
+9,Star Schema Design,5
+10,ETL Processes,5
+11,Interactive Dashboards,6
+12,Data Storytelling,6
+13,MapReduce Basics,7
+14,User Management,8
+15,System Monitoring,8
+16,Network Topologies,9
+17,Virtual Machine Management,10
+18,Cloud Service Models,10
+19,Server Virtualization,11
+20,Storage Solutions,11
+21,Encryption Techniques,11
+22,Identity and Access Management (IAM),12
+23,Static Analysis,13
+24,Dynamic Analysis,13
+25,SQL Injection,14
+26,Cross-Site Scripting (XSS),14
+27,Singleton Pattern,15
+28,Observer Pattern,15
+29,Responsive Design,16
+30,Flexbox and Grid Layout,16
+31,State Management with NgRx,17
+32,Reactive Programming with RxJS,17
+33,Widgets and UI Design,18
+34,State Management,18
+35,RESTful API Design,19
+36,API Security,19
+37,Laravel Basics,20
+38,Symfony Routing,20
+39,Vue Components,21
+40,Vue Router,21
+41,Power Automate Flows,22
+42,Customizing Dynamics 365,22
+43,SQL Server Integration Services (SSIS),23
+44,SQL Server Reporting Services (SSRS),23
+45,Factory Pattern,24
+46,Dependency Injection,24
+47,Game Object Management,25
+48,Physics and Collisions,25
+49,Object-Oriented Programming,26
+50,Memory Management,26
+51,Keyframe Animation,27
+52,Character Rigging,27
+53,After Effects Basics,28
+54,Motion Tracking,28
+55,Digital Painting,29
+56,Vector Art Design,29
+57,Memory Management Systems,29
+58,Data Analysis with Pandas,30
+59,Web Scraping with Beautiful Soup,30
+60,Building REST APIs with Flask,30
+61,Java Collections Framework,31
+62,Concurrency in Java,31
+63,DOM Manipulation,32
+64,JavaScript ES6 Features,32
+65,Entity Framework,33
+66,LINQ (Language Integrated Query),33
+67,ASP.NET Core for Web Development,33
+68,Data Types,34
+69,Control Structures,34
+70,Functions,34
+71,Data Frames,35
+72,Statistical Modeling,35
+73,Visualization,35
+74,Joins,36
+75,Subqueries,36
+76,Indexes,36
+77,Stored Procedures,37
+78,Triggers,37
+79,Views,37
+80,Document Model,38
+81,Indexing,38
+82,Aggregation Framework,38
+83,PL/SQL,39
+84,Oracle RAC,39
+85,Data Guard,39
+86,Backup and Recovery,40
+87,Security Management,40
+88,Performance Tuning,40
+89,OSI Model,41
+90,IP Addressing,41
+91,Subnetting,41
+92,BGP,42
+93,MPLS,42
+94,QoS,42
+95,IPv6 Addressing,43
+96,Transition Mechanisms,43
+97,Security Concerns,43
+98,Routing Protocols,44
+99,Switching Concepts,44
+100,Network Security,44
+101,Network Design,45
+102,Redundancy Protocols,45
+103,Scalability,45
+104,Wi-Fi Standards,46
+105,Security Protocols,46
+106,Site Surveys,46
+107,Game Engines,47
+108,Game Loops,47
+109,Input Handling,47
+110,Unity Interface,48
+111,Scripting,48
+112,Physics Engine,48
+113,Game Mechanics,49
+114,Level Design,49
+115,Narrative Design,49
+116,Player Motivation,50
+117,Game Elements,50
+118,Behavioral Psychology,50
+119,HUD Design,51
+120,Menus,51
+121,User Feedback,51
+122,User Flow,52
+123,Playtesting,52
+124,Accessibility,52
+125,3D Modeling,53
+126,Immersive Audio,53
+127,User Interaction,53
+128,Supervised Learning,54
+129,Unsupervised Learning,54
+130,Model Evaluation,54
+131,Charts and Graphs,55
+132,Dashboards,55
+133,Infographics,55
+134,Pivot Tables,56
+135,Data Cleaning,56
+136,Statistical Functions,56
+137,Data Connections,57
+138,Calculated Fields,57
+139,Interactive Dashboards,57
+140,Entity-Relationship Diagrams,58
+141,Normalization,58
+142,Dimensional Modeling,58
+143,ETL Process,59
+144,Star Schema,59
+145,Data Marts,59
+146,Data Flow,60
+147,Control Flow,60
+148,Error Handling,60
+149,Report Design,61
+150,Data Sources,61
+151,Report Deployment,61
+152,Cubes,62
+153,MDX Queries,62
+154,Data Mining,62
+155,HTML Elements,63
+156,CSS Styling,63
+157,Responsive Design,63
+158,Variables,64
+159,Functions,64
+160,DOM Manipulation,64
+161,Asynchronous Programming,65
+162,Closures,65
+163,Prototypes,65
+164,Media Queries,66
+165,Fluid Layouts,66
+166,Flexbox,66
+167,Components,67
+168,State Management,67
+169,Hooks,67
+170,Modules,68
+171,Services,68
+172,Directives,68
+173,Event Loop,69
+174,Asynchronous I/O,69
+175,Express Framework,69
+176,Routing,70
+177,Middleware,70
+178,Authentication,70
+179,CRUD Operations,71
+180,Indexing,71
+181,Aggregation,71
+182,Frontend Development,72
+183,Backend Development,72
+184,APIs,72
+185,Encryption,73
+186,Authentication,73
+187,Vulnerabilities,73
+188,Domain Management,74
+189,Hosting Platforms,74
+190,DNS,74
+191,Design Principles,75
+192,Typography,75
+193,Color Theory,75
+194,Balance,76
+195,Contrast,76
+196,Unity,76
+197,Layers,77
+198,Image Retouching,77
+199,Masks,77
+200,Vector Drawing,78
+201,Pathfinder Tool,78
+202,Typography,78
+203,Wireframing,79
+204,User Research,79
+205,Prototyping,79
+206,Color Wheel,80
+207,Color Schemes,80
+208,Psychology of Color,80
+209,Font Selection,81
+210,Kerning,81
+211,Readability,81
+212,Empathy,82
+213,Ideation,82
+214,Prototyping,82
+215,Advanced Compositing,83
+216,3D Effects,83
+217,Illustration,83
+218,Die Lines,84
+219,Material Selection,84
+220,Branding,84
+221,Digital Illustration,85
+222,Composition,85
+223,Lighting,85
+224,Brushwork,86
+225,Color Blending,86
+226,Textures,86
+227,Mesh Creation,87
+228,UV Mapping,87
+229,Texturing,87
+230,Silhouette,88
+231,Proportions,88
+232,Costume Design,88
+233,Environment Design,89
+234,Storyboarding,89
+235,Mood Boards,89
+236,Keyframing,90
+237,Timing and Spacing,90
+238,Rigging,90
+239,Brushes,91
+240,Subtools,91
+241,Polygroups,91
+242,Particle Systems,92
+243,Compositing,92
+244,Green Screen Techniques,92
+245,User Interaction,93
+246,Interface Design,93
+247,Interactive Storytelling,93
+248,Portfolio Layout,94
+249,Case Studies,94
+250,Presentation,94
+251,Process Management,95
+252,Memory Management,95
+253,File Systems,95
+254,Kernel,96
+255,Shell,96
+256,System Calls,96
+257,File Permissions,97
+258,Shell Scripting,97
+259,Package Management,97
+260,Active Directory,98
+261,Group Policy,98
+262,PowerShell,98
+263,Kernel Compilation,99
+264,Systemd,99
+265,SELinux,99
+266,RAID,100
+267,LVM,100
+268,File System Hierarchy,100
+269,User Authentication,101
+270,Encryption,101
+271,Security Policies,101
+272,Ubuntu Installation,102
+273,Package Management,102
+274,System Security,102
+275,UNIX File System,103
+276,Shell Scripting,103
+277,User Management,103
+278,CPU Scheduling,104
+279,Memory Optimization,104
+280,Disk I/O Management,104
+281,Modules,105
+282,Device Drivers,105
+283,System Calls,105
+284,TCP/IP Stack,106
+285,Network File Systems,106
+286,Remote Access Protocols,106
+287,Real-Time Scheduling,107
+288,Interrupt Handling,107
+289,RTOS Kernels,107
+290,Resource Constraints,108
+291,Power Management,108
+292,Embedded Linux,108
+293,Virtualization,109
+294,Resource Scaling,109
+295,Security in Cloud OS,109
+296,Process Control,110
+297,Memory Architecture,110
+298,System Calls,110
+299,Backup Strategies,111
+300,Disaster Recovery Planning,111
+301,Data Restoration,111
+302,Event Logs,112
+303,Safe Mode,112
+304,System Restore,112
+305,DBMS Architecture,113
+306,Transaction Management,113
+307,Concurrency Control,113
+308,Distributed Computing,114
+309,Consistency Models,114
+310,Distributed File Systems,114
+311,Hypervisors,115
+312,Virtual Machines,115
+313,Containerization,115
+314,Virtual Networks,116
+315,Storage Virtualization,116
+316,Resource Allocation,116
+317,vSphere,117
+318,ESXi,117
+319,vCenter,117
+320,DRS,118
+321,HA,118
+322,vSAN,118
+323,Virtual Switches,119
+324,Live Migration,119
+325,Checkpointing,119
+326,Pods,120
+327,Services,120
+328,Ingress,120
+329,Cloud Service Models,121
+330,Hybrid Cloud,121
+331,Cloud Security,121
+332,VLANs,122
+333,Subnets,122
+334,Network Topologies,122
+335,NAS,123
+336,SAN,123
+337,Object Storage,123
+338,Backup Solutions,124
+339,Failover Clustering,124
+340,High Availability,124
+341,Cloud Service Models,125
+342,Public vs Private Cloud,125
+343,Cloud Migration,125
+344,IaaS,126
+345,PaaS,126
+346,SaaS,126
+347,EC2,127
+348,S3,127
+349,Lambda,127
+350,Virtual Machines,128
+351,Azure Active Directory,128
+352,Azure Storage,128
+353,Compute Engine,129
+354,BigQuery,129
+355,App Engine,129
+356,Identity and Access Management,130
+357,Data Encryption,130
+358,Compliance,130
+359,Microservices,131
+360,Scalability,131
+361,Load Balancing,131
+362,Cost Management,132
+363,Resource Monitoring,132
+364,Automated Provisioning,132
+365,Function as a Service,133
+366,Event-Driven Architecture,133
+367,Scaling,133
+368,Cloud Orchestration,134
+369,Hybrid Cloud Management,134
+370,Serverless Architectures,134
+371,User Management,135
+372,System Security,135
+373,Backup and Restore,135
+374,Shell Scripting,136
+375,User Permissions,136
+376,Service Management,136
+377,Active Directory,137
+378,Group Policy Management,137
+379,PowerShell,137
+380,Cluster Management,138
+381,Load Balancing,138
+382,Distributed File Systems,138
+383,Automated Deployments,139
+384,Monitoring Tools,139
+385,Advanced Security,139
+386,Network Configuration,140
+387,Firewall Management,140
+388,VPN Setup,140
+389,Database Backup,141
+390,Performance Tuning,141
+391,Replication,141
+392,Cloud Resource Management,142
+393,Cloud Security,142
+394,Cost Optimization,142
+395,Resource Monitoring,143
+396,System Logs,143
+397,Automated Alerts,143
+398,Risk Assessment,144
+399,Backup Solutions,144
+400,Recovery Strategies,144
+401,Blockchain Basics,145
+402,Consensus Algorithms,145
+403,Cryptographic Hashing,145
+404,Blockchain Architecture,146
+405,Smart Contracts,146
+406,Decentralized Applications,146
+407,Bitcoin Fundamentals,147
+408,Wallet Management,147
+409,Mining and Transactions,147
+410,Solidity Programming,148
+411,Contract Deployment,148
+412,Security Best Practices,148
+413,DApp Development,149
+414,Blockchain APIs,149
+415,Smart Contract Integration,149
+416,Solidity Basics,150
+417,Ethereum Virtual Machine,150
+418,Token Standards,150
+419,Cryptographic Algorithms,151
+420,Security Threats,151
+421,Blockchain Auditing,151
+422,Decentralized Exchanges,152
+423,Yield Farming,152
+424,Stablecoins,152
+425,Private Blockchains,153
+426,Enterprise Use Cases,153
+427,Integration Strategies,153
+428,Scalability Solutions,154
+429,Interoperability,154
+430,Governance Models,154
+431,Programming Basics,155
+432,Software Lifecycle,155
+433,Version Control,155
+434,Waterfall Model,156
+435,Agile Methodologies,156
+436,Scrum Framework,156
+437,Classes and Objects,157
+438,Inheritance,157
+439,Polymorphism,157
+440,Scrum,158
+441,Kanban,158
+442,Agile Metrics,158
+443,Singleton Pattern,159
+444,Factory Pattern,159
+445,Observer Pattern,159
+446,Frontend Technologies,160
+447,Backend Integration,160
+448,Database Connectivity,160
+449,Mobile UI Design,161
+450,Cross-Platform Development,161
+451,App Deployment,161
+452,Unit Testing,162
+453,Integration Testing,162
+454,Test Automation,162
+455,Continuous Integration,163
+456,Continuous Delivery,163
+457,Infrastructure as Code,163
+458,Project Planning,164
+459,Risk Management,164
+460,Quality Assurance,164
+461,Requirement Gathering,165
+462,System Modeling,165
+463,Use Case Analysis,165
+464,Semiconductor Basics,166
+465,IC Fabrication Process,166
+466,Circuit Design Principles,166
+467,Logic Gates,167
+468,Combinational Circuits,167
+469,Sequential Circuits,167
+470,Operational Amplifiers,168
+471,Analog Filters,168
+472,Signal Amplification,168
+473,High-Speed Design,169
+474,Power Optimization,169
+475,Timing Analysis,169
+476,Simulation Techniques,170
+477,Formal Verification,170
+478,Test Bench Design,170
+479,MOSFET Operation,171
+480,CMOS Inverter,171
+481,CMOS Logic Design,171
+482,Data Converters,172
+483,Phase-Locked Loops,172
+484,Mixed-Signal Simulation,172
+485,Floorplanning,173
+486,Placement and Routing,173
+487,Design Rules,173
+488,RF Amplifiers,174
+489,Mixers,174
+490,Oscillators,174
+491,Low Power Techniques,175
+492,Power Gating,175
+493,Dynamic Voltage Scaling,175
+494,Marketing Fundamentals,176
+495,Digital Marketing Channels,176
+496,Content Strategy,176
+497,SEO Optimization,177
+498,Social Media Marketing,177
+499,Email Campaigns,177
+500,Keyword Research,178
+501,On-Page Optimization,178
+502,Link Building,178
+503,Social Media Strategy,179
+504,Content Creation,179
+505,Analytics and Reporting,179
+506,Content Planning,180
+507,SEO Content Writing,180
+508,Content Distribution,180
+509,AdWords Campaigns,181
+510,Bid Strategies,181
+511,Ad Performance Tracking,181
+512,List Building,182
+513,Email Design,182
+514,Campaign Analytics,182
+515,Google Analytics,183
+516,Conversion Tracking,183
+517,Data Interpretation,183
+518,Affiliate Networks,184
+519,Commission Structures,184
+520,Performance Tracking,184
+521,E-commerce Platforms,185
+522,Online Sales Strategies,185
+523,Customer Retention,185

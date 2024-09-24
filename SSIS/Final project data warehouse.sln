@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Final project data warehouse", "Final project data warehouse.dtproj", "{D004F0EC-956B-41A5-A4AC-FDF8B0A9D67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D004F0EC-956B-41A5-A4AC-FDF8B0A9D67B}.Development|Default.ActiveCfg = Development
+		{D004F0EC-956B-41A5-A4AC-FDF8B0A9D67B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC7B5A9-BF6B-4432-8999-630625353A93}
+	EndGlobalSection
+EndGlobal

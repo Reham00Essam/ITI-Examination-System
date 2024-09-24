@@ -1,0 +1,186 @@
+Course_Id,Course_Name,Course_Description,Course_MaxGrade,Course_MinGrade
+1,GIS Concepts and Techniques,Understand geographic information systems and their applications.,100,50
+2,Geo-Apps Development,Develop applications using geographic information systems data.,100,50
+3,Remote Sensing and Digital Image Processing,Analyze and interpret remotely sensed data.,100,50
+4,Analytical SQL,Master SQL for data analysis and querying.,100,50
+5,Data Warehousing Fundamentals and Data Modeling,Learn to design and implement data warehouses.,100,50
+6,Visualization & Storytelling using Tableau.,Create compelling data visualizations using Tableau.,100,50
+7,Apache Hadoop,Understand and use Apache Hadoop for big data processing.,100,50
+8,Red Hat System Administration,Gain expertise in administering Red Hat Enterprise Linux systems.,100,50
+9,Network Design and Implementation,"Learn to design, implement, and manage computer networks.",100,50
+10,Cloud Computing and Virtualization Foundations,Understand cloud computing concepts and virtualization technologies.,100,50
+11,Data Center Infrastructure design,Design and implement efficient data center infrastructures.,100,50
+12,cloud security,Learn to protect cloud environments from cyber threats.,100,50
+13,Malware Analysis and Reverse Engineering,Learn to analyze and understand malicious software.,100,50
+14,Web Penetration Testing,Master techniques for identifying and exploiting vulnerabilities in web applications.,100,50
+15,JavaScript Design Patterns,Master JavaScript design patterns for efficient development.,100,50
+16,HTML5 & CSS3,Build responsive and interactive web pages.,100,50
+17,Angular NgRx and Reactive RxJS,Develop Angular applications using NgRx and RxJS.,100,50
+18,Flutter Development,Build cross-platform mobile apps using Flutter.,100,50
+19,Web API,Design and develop RESTful APIs.,100,50
+20,PHP Web Frameworks,Develop web applications using PHP frameworks.,100,50
+21,VueJS,Build user interfaces with Vue.js.,100,50
+22,Power Platform & Dynamics 365 CE,Build custom business applications using Power Platform and Dynamics 365.,100,50
+23,Microsoft SQL Server-Business Intelligence,Create business intelligence solutions using SQL Server.,100,50
+24,.Net Design Patterns,Learn effective design patterns for .NET development.,100,50
+25,Unity,Learn to create interactive 2D and 3D games and applications using Unity.,100,50
+26,C++,Master the C++ programming language for building efficient and high-performance applications.,100,50
+27,2D Animation Tools,Explore various 2D animation tools and techniques for creating engaging visuals.,100,50
+28,Motion Graphics,Learn to design and create dynamic visual effects and animations for video and digital media.,100,50
+29,Digital Art Styles and Techniques,Master different digital art styles and techniques to create stunning visual assets.,100,50
+30,python,"Learn the basics of Python programming, including syntax, data structures, functions, and libraries, used for web development, data analysis, machine learning, and automation.",100,60
+31,java,"Understand the fundamentals of Java programming, covering object-oriented principles, syntax, libraries, and applications in desktop, web, and mobile development.",100,55
+32,javascript,"Gain proficiency in JavaScript, the scripting language for web development, including DOM manipulation, event handling, asynchronous programming, and frameworks.",100,65
+33,c#,"Explore the C# programming language, focusing on object-oriented programming, syntax, .NET framework, and applications in Windows, web, and game development.",100,70
+34,c,"Master the basics of C programming, including syntax, control structures, functions, pointers, and memory management, widely used in system and application software.",100,75
+35,R,"Learn R, a programming language for statistical computing and graphics, focusing on data analysis, visualization, and statistical modeling techniques.",88,60
+36,sql,"Discover the basics of SQL (Structured Query Language), used for querying, manipulating, and managing data in relational databases.",97,50
+37,mysql,"Understand how to use MySQL, a popular relational database management system, including database design, SQL queries, and data manipulation.",91,55
+38,mongodb,"Explore MongoDB, a NoSQL database, learning how to manage data with flexible document-based storage, CRUD operations, and database scaling.",99,65
+39,oracle db,"Gain knowledge of Oracle Database, a widely used enterprise database management system, including SQL, PL/SQL, and database administration concepts.",96,70
+40,database admin,"Learn the skills needed to manage and maintain database systems, including installation, configuration, security, backup, and performance tuning.",100,60
+41,intro to networks,"Understand the fundamentals of computer networking, including concepts like LAN, WAN, protocols, and network topologies.",100,75
+42,advanced networks,"Dive deeper into networking with advanced topics such as routing, switching, network security, and network design.",100,65
+43,IPv6 networks,"Explore IPv6, the next-generation Internet Protocol, focusing on addressing, configuration, and transitioning from IPv4.",98,60
+44,CCNA,"Prepare for the Cisco Certified Network Associate (CCNA) certification, covering network fundamentals, IP connectivity, security, and automation.",88,70
+45,networks architectur,"Study the design and structure of complex networks, including data flow, network devices, and architecture models.",100,75
+46,wireless networking,"Learn about wireless networking technologies, standards, and security practices, including Wi-Fi, Bluetooth, and cellular networks.",100,70
+47,introduction to gaming development,"Discover the basics of game development, including game design, programming, and using game engines like Unity or Unreal.",100,65
+48,unity development,"Gain skills in Unity, a leading game engine, focusing on 2D and 3D game development, scripting, and asset management.",91,80
+49,fundamental gaming design,"Learn the core principles of game design, including gameplay mechanics, storyboarding, and player experience.",100,60
+50,gamification,Understand the application of game design elements in non-game contexts to engage and motivate users.,98,70
+51,game UI,"Study the design of user interfaces in games, focusing on layouts, navigation, and user experience.",100,65
+52,game UX,"Explore the principles of game user experience (UX) design, including player psychology, feedback loops, and immersive design.",100,75
+53,VR design,"Learn the fundamentals of virtual reality (VR) design, including 3D modeling, interaction design, and immersive experience creation.",93,80
+54,introduction to machine learning,"Get started with machine learning, covering basic algorithms, data preprocessing, and model training and evaluation.",96,60
+55,data visualizations,"Learn how to present data effectively using charts, graphs, and visualization tools to communicate insights clearly.",96,60
+56,excel data analysis,"Gain skills in data analysis using Microsoft Excel, including formulas, pivot tables, charts, and data visualization.",96,60
+57,tableau,"Learn to use Tableau, a data visualization tool, for creating interactive and insightful dashboards and reports.",94,60
+58,data modeling,"Understand data modeling concepts, including creating data models, schemas, and relationships in databases.",97,60
+59,data warehouse,"Explore the architecture and design of data warehouses, focusing on data integration, ETL processes, and analytical reporting.",100,60
+60,SSIS,"Learn SQL Server Integration Services (SSIS) for data integration, transformation, and migration tasks in Microsoft environments.",96,60
+61,SSRS,"Discover SQL Server Reporting Services (SSRS) for creating, deploying, and managing reports in a business environment.",96,87
+62,SSAS,"Study SQL Server Analysis Services (SSAS) for data analytics, including cube creation, data mining, and advanced analytics.",94,77
+63,introduction to HTML & CSS,"Learn the basics of web development using HTML and CSS, including creating web pages, styling elements, and understanding responsive design principles.",100,50
+64,javascript basics,"Introduction to core JavaScript concepts including variables, data types, and control structures.",100,55
+65,advanced javascript,"Covers more complex JavaScript topics like closures, asynchronous programming, and ES6+ features.",88,60
+66,responsive web design,Teaches techniques for creating websites that look good on all screen sizes.,100,69
+67,React,"Introduction to building user interfaces using React.js, a popular JavaScript library.",100,70
+68,Angular,"Learn to develop dynamic web applications using Angular, a front-end web application framework.",100,78
+69,Node.js,"Introduction to server-side programming using Node.js, allowing JavaScript to be used on the server.",100,65
+70,building APIs with Express.js,Learn to build RESTful APIs using the Express.js framework on top of Node.js.,100,60
+71,database management with MongoDB,"Introduction to NoSQL databases using MongoDB, focusing on CRUD operations.",100,70
+72,full stack web development,Combines front-end and back-end technologies to build complete web applications.,100,75
+73,web security fundamentals,Covers basic web security practices to protect against common vulnerabilities.,100,60
+74,introduction to web hosting,Overview of hosting websites on different platforms and managing domain names.,100,55
+75,introduction to graphic design,"Basics of graphic design, including color theory, typography, and layout principles.",100,50
+76,principles of design,In-depth exploration of the fundamental principles that guide effective design.,100,55
+77,adobe photoshop basics,"Introduction to Photoshop, focusing on essential tools and techniques for image editing.",100,60
+78,illustrator essentials,Covers key features of Adobe Illustrator for creating vector graphics.,100,65
+79,UI/UX fundamentals,Introduction to user interface (UI) and user experience (UX) design principles.,100,70
+80,color Theory,Study of how colors interact and how they can be used effectively in design.,94,60
+81,typography essentials,"Basics of typography, including font selection, spacing, and alignment.",92,55
+82,design Thinking and innovation,Learn the design thinking process for solving complex problems creatively.,100,75
+83,advanced graphic design techniques,"Advanced topics in graphic design, including digital tools and special effects.",100,65
+84,packaging design,Focuses on designing product packaging that is both functional and visually appealing.,98,66
+85,digital arts fundamentals,Introduction to digital art techniques and tools.,100,50
+86,digital painting techniques,Techniques for creating digital paintings using software like Photoshop.,100,55
+87,3D modeling,"Basics of creating 3D models for games, movies, and other media.",100,60
+88,character design,"Learn the process of designing characters for animation, games, or comics.",100,65
+89,concept art for digital media,"Creating concept art for video games, films, and other digital media.",100,70
+90,animation basics,Introduction to animation principles and techniques.,100,60
+91,digital sculpting in ZBrush,Learn to create detailed digital sculptures using ZBrush software.,100,65
+92,visual effects,Techniques for adding visual effects to digital media projects.,100,75
+93,interactive media design,"Design interactive experiences such as websites, apps, or installations.",100,70
+94,digital arts portfolio development,Learn how to build a professional portfolio to showcase your digital art skills.,100,65
+95,introduction to operating systems,"Overview of how operating systems work, including basic functions and components.",100,50
+96,operating systems Fundamentals,"Deeper understanding of operating systems, including process management and memory.",100,55
+97,linux essentials,"Introduction to the Linux operating system, covering basic commands and system navigation.",100,60
+98,windows server admin,Learn to administer and manage Windows Server environments.,100,65
+99,advanced Linux,"In-depth study of advanced Linux administration, including scripting and system optimization.",100,70
+100,file systems and storage management,Overview of file systems and techniques for managing data storage.,100,60
+101,operating systems security,Introduction to securing operating systems against threats.,100,65
+102,ubuntu fundamentals,Basic usage and administration of Ubuntu Linux.,100,70
+103,introduction to UNIX,Covers the basics of the UNIX operating system and its commands.,94,55
+104,system performance tuning,Techniques for optimizing system performance and troubleshooting bottlenecks.,96,75
+105,kernel programming,Introduction to programming at the kernel level for operating systems.,100,74
+106,network operating systems,Covers operating systems that are specifically designed for networking environments.,100,60
+107,real-time operating systems,Learn about operating systems designed for real-time applications.,88,65
+108,operating systems for embedded systems,Focus on operating systems used in embedded devices like IoT.,95,63
+109,cloud operating systems,Introduction to operating systems used in cloud environments.,100,70
+110,operating System Internals,Deep dive into the internal workings of operating systems.,100,65
+111,disaster recovery and backup,Strategies for backing up data and recovering from system failures.,90,75
+112,windows troubleshooting,Techniques for diagnosing and fixing issues in Windows systems.,90,60
+113,database operating systems,Focuses on operating systems optimized for running database applications.,100,70
+114,introduction to distributed operating oystems,Learn about operating systems that manage resources across multiple machines.,93,65
+115,introduction to virtualization,Basics of virtualization technology and its uses in modern computing.,100,57
+116,virtualization fundamentals,In-depth exploration of virtualization technologies and practices.,100,55
+117,vmware essentials,Learn the basics of VMware virtualization software.,100,61
+118,advanced vmware,"Advanced topics in VMware, including performance optimization and advanced configurations.",90,65
+119,introduction to hyper-v,Basics of Microsoft's Hyper-V virtualization platform.,88,60
+120,kubernetes for virtualization,Learn to use Kubernetes for managing containerized applications in virtualized environments.,98,70
+121,cloud virtualization concepts,Virtualization techniques and strategies in cloud computing.,89,65
+122,virtual network design,Designing and implementing virtual networks.,91,60
+123,storage solutions in virtual environments,Techniques for managing storage in virtualized systems.,87,61
+124,disaster recovery in virtualized systems,Planning and implementing disaster recovery strategies in virtual environments.,100,75
+125,introduction to cloud computing,"Basics of cloud computing, including types of cloud services and deployment models.",97,50
+126,cloud computing basics,"Foundational concepts in cloud computing, including cloud service models and providers.",89,55
+127,AWS fundamentals,Introduction to Amazon Web Services (AWS) and its core services.,100,60
+128,microsoft azure essentials,Learn the basics of Microsoft Azure cloud platform and its key services.,100,65
+129,google cloud platform fundametals,Overview of Google's cloud services and how to use them.,97,65
+130,cloud security best practices,Learn how to secure cloud environments and data.,88,70
+131,cloud architecture design,Techniques for designing scalable and reliable cloud architectures.,98,66
+132,managing cloud resources,"Learn to manage cloud resources effectively, including automation and cost optimization.",100,76
+133,serverless computing,Introduction to serverless computing and how to deploy serverless applications.,89,75
+134,advanced cloud computing,"Advanced topics in cloud computing, including multi-cloud strategies and cloud-native development.",100,70
+135,introduction to system administration,Basics of managing and maintaining computer systems.,98,50
+136,linux system admin,"Learn to administer Linux systems, covering user management, security, and networking.",100,55
+137,windows system admin,Techniques for managing Windows-based systems in an enterprise environment.,88,60
+138,distributed system admin,"Administration of distributed systems, including cluster management and monitoring.",89,65
+139,advanced system admin,"Advanced system administration topics, including automation and performance tuning.",100,70
+140,network system admin,Managing and administering networked computer systems.,100,60
+141,database system admin,"Techniques for managing database systems, including backups and performance tuning.",100,65
+142,cloud system Admin,Administration of cloud-based systems and services.,100,70
+143,system monitoring and maintenance,Techniques for monitoring system performance and ensuring uptime.,89,75
+144,disaster recovery planning,Strategies for planning and implementing disaster recovery plans.,100,65
+145,introduction to blockchain,"Basics of blockchain technology, including its components and how it works.",89,50
+146,blockchain fundamentals,Deeper understanding of blockchain technology and its applications.,94,55
+147,cryptocurrency basics,"Introduction to cryptocurrencies, including how they work and their use cases.",94,60
+148,smart contracts,Learn how to create and deploy smart contracts on blockchain platforms.,80,65
+149,building blockchain apps,Techniques for building decentralized applications (dApps) on blockchain.,88,70
+150,ethereum development,Introduction to developing applications on the Ethereum blockchain.,88,60
+151,blockchain security and cryptography,Focus on securing blockchain networks and understanding cryptographic principles.,93,65
+152,decentralized finance (DeFi),Overview of decentralized finance applications and how they operate.,100,70
+153,blockchain for enterprise,Use of blockchain technology in enterprise environments.,87,50
+154,advanced blockchain,Advanced topics in blockchain development and technology.,88,51
+155, introduction to software development,"Basics of software development, including methodologies and tools.",100,50
+156, SDLC,Overview of the software development life cycle stages and best practices.,90,55
+157, OOP,Learn the principles of object-oriented programming and how to apply them.,100,60
+158, agile software development,Introduction to Agile methodologies for software development.,100,65
+159, advanced software design patterns,Learn advanced design patterns to solve common software development problems.,100,70
+160, web application development,Techniques for developing dynamic and interactive web applications.,100,60
+161, mobile application development,Introduction to building apps for mobile devices.,100,65
+162, software testing,Learn how to test software applications to ensure they work as intended.,100,70
+163, DevOps,Introduction to DevOps practices that combine software development and IT operations.,98,75
+164, software project management,"Managing software projects from inception to completion, including planning and execution.",100,65
+165, system analysis,Techniques for analyzing and designing systems to meet business needs.,77,60
+166, introduction to IC design,"Basics of integrated circuit (IC) design, covering design flow and methodologies.",98,50
+167, digital IC design basics,Introduction to designing digital integrated circuits.,96,55
+168, analog IC design fundamentals,Basics of analog integrated circuit design.,88,60
+169, advanced digital IC design,"Advanced topics in digital IC design, including optimization and verification.",100,55
+170, IC design verification,Techniques for verifying the correctness and performance of IC designs.,100,50
+171, CMOS circuit design,Learn about CMOS technology and designing CMOS circuits.,100,63
+172, mixed-signal IC design,Design of integrated circuits that process both analog and digital signals.,100,67
+173, IC layout and physical design,Techniques for translating IC designs into physical layouts for fabrication.,89,70
+174, RF IC design,Design of radio frequency integrated circuits for wireless communication.,100,75
+175, IC design for power efficiency,Learn to design ICs with an emphasis on minimizing power consumption.,98,70
+176, introduction to digital marketing,"Basics of digital marketing, including key channels and strategies.",100,50
+177, digital marketing platforms,"Overview of digital marketing platforms like Google Ads, Facebook Ads, etc.",100,55
+178, SEO strategies and techniques,Learn search engine optimization (SEO) techniques to improve website visibility.,78,55
+179, social media marketing,"Strategies for marketing on social media platforms like Facebook, Twitter, and Instagram.",100,65
+180, content marketing fundamentals,Basics of creating and distributing valuable content to attract and retain customers.,100,70
+181, Pay-Per-Click advertising PPC,"Introduction to PPC advertising, including Google Ads and social media ads.",100,60
+182, email marketing campaigns,Techniques for creating effective email marketing campaigns.,100,65
+183, marketing analytics,Learn to measure and analyze marketing performance to improve strategies.,100,70
+184, affiliate marketing strategies,Introduction to affiliate marketing and how to build successful campaigns.,100,75
+185, digital marketing for e-commerce,Strategies for marketing e-commerce businesses online.,98,70

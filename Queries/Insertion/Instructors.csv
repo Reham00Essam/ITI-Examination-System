@@ -1,0 +1,59 @@
+Instructor_Id,Instructor_Fname,Instructor_Lname,Instructor_BrithDate,Instructor_City,Instructor_Email,Instructor_Password,Instructor_Salary,Instructor_Degree,Instructor_Gender,Training_Manager_Id
+1,Ahmed,Mohamed,1/1/1970,Cairo,ahmed.mohamed@instructor.com,hashed_password,10000,PhD,Male,1
+2,Ali,Hassan,2/14/1975,Alexandria,ali.hassan@instructor.com,hashed_password,10000,MSc,Male,1
+3,Sara,Ibrahim,3/28/1972,Giza,sara.ibrahim@instructor.com,hashed_password,10000,PhD,Female,1
+4,Omar,Hussein,4/11/1968,Beni Suef,omar.hussein@instructor.com,hashed_password,10000,BA,Male,1
+5,Fatima,Abdullah,5/19/1973,Qena,fatima.abdullah@instructor.com,hashed_password,10000,MSc,Female,5
+6,Khaled,Ali,6/26/1969,Aswan,khaled.ali@instructor.com,hashed_password,10000,PhD,Male,5
+7,Nada,Ahmed,7/10/1974,Cairo,nada.ahmed@instructor.com,hashed_password,10000,BA,Female,5
+8,Mohamed,Hassan,8/18/1970,Alexandria,mohamed.hassan@instructor.com,hashed_password,10000,MSc,Male,5
+9,Aisha,Ibrahim,9/25/1971,Giza,aisha.ibrahim@instructor.com,hashed_password,10000,PhD,Female,9
+10,Mahmoud,Hussein,10/9/1967,Beni Suef,mahmoud.hussein@instructor.com,hashed_password,10000,BA,Male,9
+11,Layla,Mohamed,11/12/1971,Cairo,layla.mohamed@instructor.com,hashed_password,10000,PhD,Female,9
+12,Youssef,Hassan,12/20/1966,Alexandria,youssef.hassan@instructor.com,hashed_password,10000,MSc,Male,9
+13,Dina,Ibrahim,1/28/1972,Giza,dina.ibrahim@instructor.com,hashed_password,10000,PhD,Female,9
+14,Ahmed,Hussein,2/11/1968,Beni Suef,ahmed.hussein@instructor.com,hashed_password,10000,BA,Male,9
+15,Noha,Abdullah,3/19/1973,Qena,noha.abdullah@instructor.com,hashed_password,10000,MSc,Female,13
+16,Ahmed,Saber,8/16/1970,Cairo,ahmed.Saber@instructor.com,hashed_password,10000,PhD,Male,13
+17,Kareem,Amr,8/16/1970,Cairo,Kareem.Amr@instructor.com,hashed_password,10000,PhD,Male,13
+18,Ali,Hamdy,2/14/1975,Alexandria,ali.Hamdy@instructor.com,hashed_password,10000,MSc,Male,13
+19,ramy,abo nagi,1/1/1970,giza,r_moh33@outlook.com,hashed_password,10000,BA,Male,30
+20,ahmd,magdi,2/14/1975,giza,amag32@outlook.com,hashed_password,10000,PhD,Male,30
+21,amr,ashraf,3/28/1972,fayoum,amrshar@gmail.com,hashed_password,10000,MSc,Female,30
+22,sara,salem,4/11/1968,cairo,r33@outlook.com,hashed_password,10000,PhD,Male,30
+23,ali,mahdi,5/19/1973,beni suef,mehdi@gmail.com,hashed_password,10000,BA,Male,30
+24,mohamed,emad,6/26/1969,giza,mohdemd@outlook.com,hashed_password,10000,MSc,Male,11
+25,samah,ammar,7/10/1974,assiut,sam_ammar@outlook.com,hashed_password,10000,PhD,Male,11
+26,ahmed,okasha,8/18/1970,qalyubia,oksha@gmail.com,hashed_password,10000,PhD,Male,11
+27,ahmed,sabry,9/25/1971,qalyubia,sabrii@gmail.com,hashed_password,10000,MSc,Male,11
+28,nouran,yassine,10/9/1967,mansoura,nour@gmail.com,hashed_password,10000,BA,Female,11
+29,mohamed,koraniy,11/12/1971,beni suef,kkmo5@gmail.com,hashed_password,10000,PhD,Male,11
+30,salma,mahgoub,12/20/1966,alexandria,mahg45@gmail.com,hashed_password,10000,MSc,Female,15
+31,asmaa,adel,1/28/1972,alexandria,asma24@gmail.com,hashed_password,10000,PhD,Female,15
+32,mark,aziz,2/11/1968,minya,mezz@gmail.com,hashed_password,10000,BA,Male,15
+33,amany,selim,3/19/1973,aswan,ama_seliim45@gmail.com,hashed_password,10000,MSc,Male,15
+34,amr,abdelhady,8/16/1970,ismailia,amrabd45@gmail.com,hashed_password,10000,PhD,Male,18
+35,mostafa,nader,8/16/1970,dakahlia,nder45@gmail.com,hashed_password,10000,PhD,Male,18
+36,ali,mamdouh,2/14/1975,minya,mamdouh@gmail.com,hashed_password,10000,MSc,Male,18
+37,amira,shehab,1/1/1970,cairo,asheha22@gmail.com,hashed_password,10000,BA,Female,18
+38,saad,saleh,2/14/1975,aswan,saade34@gmail.com,hashed_password,10000,PhD,Male,19
+39,ahmed,barakat,3/28/1972,sohag,baraka@gmail.com,hashed_password,10000,MSc,Male,17
+40,mahmoud,hesham,4/11/1968,qena,mahmo@gmail.com,hashed_password,10000,PhD,Male,19
+41,omnia,hassan,5/19/1973,sohag,omo@gmail.com,hashed_password,10000,BA,Female,17
+42,samir,shaker,6/26/1969,fayoum,smsh@gmail.com,hashed_password,10000,MSc,Male,12
+43,hassan,abdelhamid,7/10/1974,cairo,hasa_abdel@gmail.com,hashed_password,10000,PhD,Male,21
+44,abdelrahman,osama,8/18/1970,luxor,osma21@gmail.com,hashed_password,10000,PhD,Male,21
+45,ahmed,salem,9/25/1971,assiut,salem23@gmail.com,hashed_password,10000,MSc,Male,12
+46,rana,ahmed,10/9/1967,assiut,rana_ahmed33@gmail.com,hashed_password,10000,BA,Female,21
+47,omar,rady,11/12/1971,minya,rady55@gmail.com,hashed_password,10000,PhD,Male,12
+48,samira,mohamed,12/20/1966,sharkia,sameera@gmail.com,hashed_password,10000,MSc,Male,13
+49,ibrahim,shawky,1/28/1972,sharkia,shwki22@gmail.com,hashed_password,10000,PhD,Male,31
+50,amir,demerdash,2/11/1968,kafr el sheikh,seif45@outlook.com,hashed_password,10000,BA,Male,50
+51,ali,tharwat,3/19/1973,giza,athar99@gmail.com,hashed_password,10000,MSc,Male,50
+52,mohamed,salama,8/16/1970,assiut,salam77@gmail.com,hashed_password,10000,PhD,Female,50
+53,may,sayed,8/16/1970,cairo,may309@gmail.com,hashed_password,10000,PhD,Male,50
+54,manar,ahmed,2/14/1975,suez,mahm5@gmail.com,hashed_password,10000,MSc,Male,2
+55,basant,khalil,1/1/1970,giza,basant@gmail.com,hashed_password,10000,BA,Female,2
+56,abdalla,radwan,2/14/1975,cairo,abd45@gmail.com,hashed_password,10000,PhD,Male,2
+57,marwan,hakim,3/28/1972,cairo,abd45@gmail.com,hashed_password,10000,MSc,Male,2
+58,soha,elgendy,4/11/1968,alexandria,s45@gmail.com,hashed_password,10000,PhD,Female,2

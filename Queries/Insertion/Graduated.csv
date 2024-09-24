@@ -1,0 +1,383 @@
+Grad_St_Id,Student_Id,Student_name,Collage_name,certificates,work_place
+1,1,Ali,Cairo University,Microsoft Certified: Data Analyst Associate,ITWorx
+2,2,Sara,Cairo University,Coursera: Analyzing and Visualizing Data with Power BI,Orange Egypt
+3,3,Omar,Ain Shams University,Udemy: Microsoft Power BI - A Complete Introduction,Vodafone Egypt
+4,4,Fatma,Assiut University,EdX: Analyzing and Visualizing Data with Power BI,Etisalat Misr
+5,5,Youssef,Mansoura University,Pluralsight: Power BI Data Modeling,Telecom Egypt
+6,6,Asmaa,Zagazig University,LinkedIn Learning: Power BI Essential Training,Xceed Contact Center
+7,7,Mohamed,Tanta University,Simplilearn: Power BI Certification Training Course,Sumerge
+8,8,Layla,Helwan University,DataCamp: Introduction to Power BI,Valeo Egypt
+9,9,Ahmed,Benha University,Udacity: Power BI for Business Analytics,Raya Holding
+10,10,Mai,Minia University,Skillshare: Learning Microsoft Power BI Desktop,Link Development
+11,11,Hassan,Suez Canal University,Great Learning: Power BI for Beginners,Mentor Graphics Egypt
+12,12,Nour,South Valley University,IBM Power BI Professional Certificate on Coursera,Si-Ware Systems
+13,13,Khaled,Fayoum University,365 Data Science: Power BI Course,Intel Egypt
+14,14,Aya,Kafr El Sheikh University,MindMajix: Microsoft Power BI Training,Microsoft Egypt
+15,15,Karim,Beni-Suef University,Intellipaat: Power BI Certification Training,IBM Egypt
+16,16,Dina,Sohag University,Whizlabs: Microsoft Power BI Certification,Dell Technologies Egypt
+17,17,Sami,Port Said University,GreyCampus: Power BI Certification Training,Oracle Egypt
+18,18,Lamis,Damietta University,FutureLearn: Microsoft Power BI for Beginners,SAP Egypt
+19,19,Youssef,Aswan University,ProjectPro: Power BI Certification Training,Hewlett Packard Enterprise (HPE) Egypt
+20,20,Rania,Sadat City University,Khan Academy: Power BI Tutorials,Huawei Egypt
+21,21,Mohamed,New Valley University,Alison: Microsoft Power BI Introduction,Ericsson Egypt
+22,22,Nadia,Arish University,Academy Europe: Microsoft Power BI Course,WE (Telecom Egypt)
+23,23,Adel,Matrouh University,Udemy: Power BI DAX Masterclass,Vodafone International Services (VIS)
+24,24,Noha,Luxor University,Coursera: Microsoft Power BI Guided Project,Asset Technology Group
+25,25,Waleed,Al-Azhar University,KPMG: Microsoft Power BI Foundations,Instabug
+26,26,Mona,American University in Cairo (AUC),Cybrary: Power BI Beginner Training,Cequens
+27,27,Yara,German University in Cairo (GUC),Pluralsight: Power BI Desktop Playbook,Fawry
+28,28,Fady,British University in Egypt (BUE),Skillsoft: Power BI Reports and Dashboards,Trella
+29,29,Amina,Misr University for Science and Technology (MUST),Coursera: Getting Started with Power BI,Souq.com (Amazon Egypt)
+30,30,Ahmed,Misr International University (MIU),Edureka: Power BI Training,Vezeeta
+31,31,Salma,Cairo University,QuickStart: Microsoft Power BI Training,SWVL
+32,32,Hisham,Cairo University,Learning Tree: Microsoft Power BI Certification,Inmobly
+33,33,Farah,Cairo University,Springboard: Power BI Data Analysis Certificate,Halan
+34,34,Ramy,Cairo University,Udemy: Power BI Advanced Dashboard Techniques,Elmenus
+35,35,Nour,Cairo University,IBM: IBM Skills Academy Power BI,MaxAB
+36,36,Ahmed,Cairo University,LinkedIn Learning: Power BI Data Analysis,Edfa3ly
+37,37,Yasmine,Cairo University,Analyst Academy: Power BI Certification,Nafham
+38,38,Karim,Cairo University,Maven Analytics: Power BI Certification Path,Cairosource
+39,39,Layla,Cairo University,Coursera: Power BI Desktop for Beginners,Wuzzuf
+40,40,Mahmoud,Cairo University,CodeAcademy: Power BI Data Visualization,BasharSoft
+41,41,Menna,Cairo University,DataQuest: Power BI Certificate,Eventtus
+42,42,Youssef,Cairo University,Koenig Solutions: Microsoft Power BI Certification,Innovera
+43,43,Sara,Cairo University,Qlik: Microsoft Power BI Training,Raye7
+44,44,Amina,Cairo University,Udemy: Microsoft Power BI Desktop for Business Intelligence,AvidBeam
+45,45,Fady,Cairo University,Microsoft Learn: Power BI Certification,iHub
+46,46,Hala,Cairo University,Pluralsight: Power BI Reporting,Tawasol
+47,47,Khaled,Cairo University,LearnPowerBI: Complete Guide,b_labs
+48,48,Rania,Cairo University,Simpliv: Microsoft Power BI Essentials,Innoventures
+49,49,Tarek,Cairo University,Udemy: Power BI Data Science & Advanced Analytics,TA telecom
+50,50,Hesham,Cairo University,[CIW: Microsoft Power BI Analytics](https://www.ciwcertified.com/,Informatique
+51,51,Salma,Cairo University,Microsoft Certified: Data Analyst Associate,Tatweer Misr
+52,52,Mohamed,Cairo University,Coursera: Analyzing and Visualizing Data with Power BI,Bey2ollak
+53,53,Dina,Cairo University,Udemy: Microsoft Power BI - A Complete Introduction,A15
+54,54,Adel,Cairo University,EdX: Analyzing and Visualizing Data with Power BI,AdMazad
+55,55,Mona,Cairo University,Pluralsight: Power BI Data Modeling,CyberTalents
+56,56,Mohamed,Cairo University,LinkedIn Learning: Power BI Essential Training,Integrant
+57,57,Heba,Cairo University,Simplilearn: Power BI Certification Training Course,ArpuPlus
+58,58,Nour,Cairo University,DataCamp: Introduction to Power BI,Eitesal
+59,59,Ahmed,Ain Shams University,Udacity: Power BI for Business Analytics,Informatique Egypt
+60,60,Asmaa,Assiut University,Skillshare: Learning Microsoft Power BI Desktop,NTG Clarity Networks
+61,61,Karim,Mansoura University,Great Learning: Power BI for Beginners,TransIT
+62,62,Sara,Zagazig University,IBM Power BI Professional Certificate on Coursera,Raye7
+63,63,Hisham,Tanta University,366 Data Science: Power BI Course,Yomken
+64,64,Layla,Helwan University,MindMajix: Microsoft Power BI Training,Smart Village Egypt
+65,65,Nadia,Benha University,Intellipaat: Power BI Certification Training,Giza Systems
+66,66,Fouad,Minia University,Whizlabs: Microsoft Power BI Certification,TAQA Arabia Digital Solutions
+67,67,Ahmed,Suez Canal University,GreyCampus: Power BI Certification Training,Enova by Veolia Egypt
+68,68,Ali,South Valley University,FutureLearn: Microsoft Power BI for Beginners,Evolvice
+69,69,Sara,Fayoum University,ProjectPro: Power BI Certification Training,Genix Digital Solutions
+70,70,Omar,Kafr El Sheikh University,Khan Academy: Power BI Tutorials,Shield Consultancy
+71,71,Fatima,Beni-Suef University,Alison: Microsoft Power BI Introduction,ITWorx
+72,72,Khaled,Ain Shams University,Academy Europe: Microsoft Power BI Course,Orange Egypt
+73,73,Nada,Assiut University,Udemy: Power BI DAX Masterclass,Vodafone Egypt
+74,74,Mohamed,Mansoura University,Coursera: Microsoft Power BI Guided Project,Etisalat Misr
+75,75,Aisha,Zagazig University,KPMG: Microsoft Power BI Foundations,Telecom Egypt
+76,76,Mahmoud,Tanta University,Cybrary: Power BI Beginner Training,Xceed Contact Center
+77,77,Omar,Helwan University,Pluralsight: Power BI Desktop Playbook,Sumerge
+78,78,Sarah,Benha University,Skillsoft: Power BI Reports and Dashboards,Valeo Egypt
+79,79,Khaled,Minia University,Coursera: Getting Started with Power BI,Raya Holding
+80,80,Mona,Suez Canal University,Edureka: Power BI Training,Link Development
+81,81,Ali,South Valley University,QuickStart: Microsoft Power BI Training,Mentor Graphics Egypt
+82,82,Nada,Fayoum University,Learning Tree: Microsoft Power BI Certification,Si-Ware Systems
+83,83,Mohamed,Kafr El Sheikh University,Springboard: Power BI Data Analysis Certificate,Intel Egypt
+84,84,Aisha,Beni-Suef University,Udemy: Power BI Advanced Dashboard Techniques,Microsoft Egypt
+85,85,Mahmoud,Ain Shams University,IBM: IBM Skills Academy Power BI,IBM Egypt
+86,86,Fatima,Assiut University,LinkedIn Learning: Power BI Data Analysis,Dell Technologies Egypt
+87,87,Youssef,Mansoura University,Analyst Academy: Power BI Certification,Oracle Egypt
+88,88,Noha,Zagazig University,Maven Analytics: Power BI Certification Path,SAP Egypt
+89,89,Ibrahim,Tanta University,Coursera: Power BI Desktop for Beginners,Hewlett Packard Enterprise (HPE) Egypt
+90,90,Leila,Helwan University,CodeAcademy: Power BI Data Visualization,Huawei Egypt
+91,91,Karim,Benha University,DataQuest: Power BI Certificate,Ericsson Egypt
+92,92,Dina,Minia University,Koenig Solutions: Microsoft Power BI Certification,WE (Telecom Egypt)
+93,93,Hassan,Suez Canal University,Qlik: Microsoft Power BI Training,Vodafone International Services (VIS)
+94,94,Amira,South Valley University,Udemy: Microsoft Power BI Desktop for Business Intelligence,Asset Technology Group
+95,95,Ahmed,Fayoum University,Microsoft Learn: Power BI Certification,Instabug
+96,96,Nour,Kafr El Sheikh University,Pluralsight: Power BI Reporting,Cequens
+97,97,Youssef,Beni-Suef University,LearnPowerBI: Complete Guide,Fawry
+98,98,Mona,Ain Shams University,Simpliv: Microsoft Power BI Essentials,Trella
+99,99,Tamer,Assiut University,Udemy: Power BI Data Science & Advanced Analytics,Souq.com (Amazon Egypt)
+100,100,Hala,Mansoura University,[CIW: Microsoft Power BI Analytics](https://www.ciwcertified.com/,Vezeeta
+101,101,Ibrahim,Zagazig University,Microsoft Certified: Data Analyst Associate,SWVL
+102,102,Hesham,Tanta University,Coursera: Analyzing and Visualizing Data with Power BI,Inmobly
+103,103,Amina,Helwan University,Udemy: Microsoft Power BI - A Complete Introduction,Halan
+104,104,Sherif,Benha University,EdX: Analyzing and Visualizing Data with Power BI,Elmenus
+105,105,Rania,Minia University,Pluralsight: Power BI Data Modeling,MaxAB
+106,106,Mahmoud,Suez Canal University,LinkedIn Learning: Power BI Essential Training,Edfa3ly
+107,107,Omar,South Valley University,Simplilearn: Power BI Certification Training Course,Nafham
+108,108,Mona,Fayoum University,DataCamp: Introduction to Power BI,Cairosource
+109,109,Ali,Kafr El Sheikh University,Udacity: Power BI for Business Analytics,Wuzzuf
+110,110,Hala,Beni-Suef University,Skillshare: Learning Microsoft Power BI Desktop,BasharSoft
+111,111,Khaled,Ain Shams University,Great Learning: Power BI for Beginners,Eventtus
+112,112,Nour,Assiut University,IBM Power BI Professional Certificate on Coursera,Innovera
+113,113,Fatima,Mansoura University,367 Data Science: Power BI Course,Raye8
+114,114,Karim,Zagazig University,MindMajix: Microsoft Power BI Training,AvidBeam
+115,115,Tamer,Tanta University,Intellipaat: Power BI Certification Training,iHub
+116,116,Rania,Helwan University,Whizlabs: Microsoft Power BI Certification,Tawasol
+117,117,Sherif,Benha University,GreyCampus: Power BI Certification Training,b_labs
+118,118,Nada,Minia University,FutureLearn: Microsoft Power BI for Beginners,Innoventures
+119,119,Mohamed,Suez Canal University,ProjectPro: Power BI Certification Training,TA telecom
+120,120,Hesham,South Valley University,Khan Academy: Power BI Tutorials,Informatique
+121,121,Mona,Fayoum University,Alison: Microsoft Power BI Introduction,Tatweer Misr
+122,122,Fatima,Kafr El Sheikh University,Academy Europe: Microsoft Power BI Course,Bey2ollak
+123,123,Khaled,Beni-Suef University,Udemy: Power BI DAX Masterclass,A16
+124,124,Aisha,Ain Shams University,Coursera: Microsoft Power BI Guided Project,AdMazad
+125,125,Omar,Assiut University,KPMG: Microsoft Power BI Foundations,CyberTalents
+126,126,Mahmoud,Mansoura University,Cybrary: Power BI Beginner Training,Integrant
+127,127,Hala,Zagazig University,Pluralsight: Power BI Desktop Playbook,ArpuPlus
+128,128,Mona,Tanta University,Skillsoft: Power BI Reports and Dashboards,Eitesal
+129,129,Sherif,Helwan University,Coursera: Getting Started with Power BI,Informatique Egypt
+130,130,Fatima,Benha University,Edureka: Power BI Training,NTG Clarity Networks
+131,131,Ahmed,Minia University,QuickStart: Microsoft Power BI Training,TransIT
+132,132,Rania,Suez Canal University,Learning Tree: Microsoft Power BI Certification,Raye8
+133,133,Mohamed,South Valley University,Springboard: Power BI Data Analysis Certificate,Yomken
+134,134, Rady,Fayoum University,Udemy: Power BI Advanced Dashboard Techniques,Smart Village Egypt
+135,135, Fadwa,Kafr El Sheikh University,IBM: IBM Skills Academy Power BI,Giza Systems
+136,136, Mohammed,Beni-Suef University,LinkedIn Learning: Power BI Data Analysis,TAQA Arabia Digital Solutions
+137,137, Aisha,Ain Shams University,Analyst Academy: Power BI Certification,Enova by Veolia Egypt
+138,138, Yossef,Assiut University,Maven Analytics: Power BI Certification Path,Evolvice
+139,139, Sara,Mansoura University,Coursera: Power BI Desktop for Beginners,Genix Digital Solutions
+140,140, Mohammed,Zagazig University,CodeAcademy: Power BI Data Visualization,Shield Consultancy
+141,141, Nadia,Tanta University,DataQuest: Power BI Certificate,ITWorx
+142,142, Ahmed,Helwan University,Koenig Solutions: Microsoft Power BI Certification,Orange Egypt
+143,143, Fatima,Benha University,Qlik: Microsoft Power BI Training,Vodafone Egypt
+144,144, Youssef,Minia University,Udemy: Microsoft Power BI Desktop for Business Intelligence,Etisalat Misr
+145,145, Aisha,Suez Canal University,Microsoft Learn: Power BI Certification,Telecom Egypt
+146,146, Omar,South Valley University,Pluralsight: Power BI Reporting,Xceed Contact Center
+147,147, Heba,Fayoum University,LearnPowerBI: Complete Guide,Sumerge
+148,148, Rami,Kafr El Sheikh University,Simpliv: Microsoft Power BI Essentials,Valeo Egypt
+149,149, Mariam,Beni-Suef University,Udemy: Power BI Data Science & Advanced Analytics,Raya Holding
+150,150, Hossam,Ain Shams University,[CIW: Microsoft Power BI Analytics](https://www.ciwcertified.com/,Link Development
+151,151, Rania,Assiut University,Microsoft Certified: Data Analyst Associate,Mentor Graphics Egypt
+152,152, Tamer,Ain Shams University,Coursera: Analyzing and Visualizing Data with Power BI,Si-Ware Systems
+153,153, Dalia,Assiut University,Udemy: Microsoft Power BI - A Complete Introduction,Intel Egypt
+154,154, Omar,Mansoura University,EdX: Analyzing and Visualizing Data with Power BI,Microsoft Egypt
+155,155, Khaled,Zagazig University,Pluralsight: Power BI Data Modeling,IBM Egypt
+156,156, Mona,Beni-Suef University,LinkedIn Learning: Power BI Essential Training,Dell Technologies Egypt
+157,157, Salah,Sohag University,Simplilearn: Power BI Certification Training Course,Oracle Egypt
+158,158, Hala,Port Said University,DataCamp: Introduction to Power BI,SAP Egypt
+159,159, Adel,Damietta University,Udacity: Power BI for Business Analytics,Hewlett Packard Enterprise (HPE) Egypt
+160,160, Nadia,Aswan University,Skillshare: Learning Microsoft Power BI Desktop,Huawei Egypt
+161,161, Tamer,Sadat City University,Great Learning: Power BI for Beginners,Ericsson Egypt
+162,162, Mariam,New Valley University,IBM Power BI Professional Certificate on Coursera,WE (Telecom Egypt)
+163,163, Hossam,Arish University,368 Data Science: Power BI Course,Vodafone International Services (VIS)
+164,164, Fatima,Matrouh University,MindMajix: Microsoft Power BI Training,Asset Technology Group
+165,165, Youssef,Luxor University,Intellipaat: Power BI Certification Training,Instabug
+166,166, Omar,Al-Azhar University,Whizlabs: Microsoft Power BI Certification,Cequens
+167,167, Heba,American University in Cairo (AUC),GreyCampus: Power BI Certification Training,Fawry
+168,168, Rania,German University in Cairo (GUC),FutureLearn: Microsoft Power BI for Beginners,Trella
+169,169, Khaled,British University in Egypt (BUE),ProjectPro: Power BI Certification Training,Souq.com (Amazon Egypt)
+170,170, Mona,Misr University for Science and Technology (MUST),Khan Academy: Power BI Tutorials,Vezeeta
+171,171, Salah,Misr International University (MIU),Alison: Microsoft Power BI Introduction,SWVL
+172,172, Hala,Cairo University,Academy Europe: Microsoft Power BI Course,Inmobly
+173,173, Adel,Cairo University,Udemy: Power BI DAX Masterclass,Halan
+174,174, Nadia,Ain Shams University,Coursera: Microsoft Power BI Guided Project,Elmenus
+175,175, Tamer,Assiut University,KPMG: Microsoft Power BI Foundations,MaxAB
+176,176, Mariam,Mansoura University,Cybrary: Power BI Beginner Training,Edfa3ly
+177,177, Hossam,Zagazig University,Pluralsight: Power BI Desktop Playbook,Nafham
+178,178, Fatima,Tanta University,Skillsoft: Power BI Reports and Dashboards,Cairosource
+179,179, Youssef,Helwan University,Coursera: Getting Started with Power BI,Wuzzuf
+180,180, Omar,Benha University,Edureka: Power BI Training,BasharSoft
+181,181, Heba,Minia University,QuickStart: Microsoft Power BI Training,Eventtus
+182,182, Rania,Suez Canal University,Learning Tree: Microsoft Power BI Certification,Innovera
+183,183, Khaled,South Valley University,Springboard: Power BI Data Analysis Certificate,Raye9
+184,184, Mona,Fayoum University,Udemy: Power BI Advanced Dashboard Techniques,AvidBeam
+185,185, Salah,Kafr El Sheikh University,IBM: IBM Skills Academy Power BI,iHub
+186,186, Hala,Beni-Suef University,LinkedIn Learning: Power BI Data Analysis,Tawasol
+187,187, Adel,Sohag University,Analyst Academy: Power BI Certification,b_labs
+188,188, Nadine,Port Said University,Maven Analytics: Power BI Certification Path,Innoventures
+189,189, Tamer,Damietta University,Coursera: Power BI Desktop for Beginners,TA telecom
+190,190, Mariam,Aswan University,CodeAcademy: Power BI Data Visualization,Informatique
+191,191, Hossam,Sadat City University,DataQuest: Power BI Certificate,Tatweer Misr
+192,192, Fatima,New Valley University,Koenig Solutions: Microsoft Power BI Certification,Bey2ollak
+193,193, Youssef,Arish University,Qlik: Microsoft Power BI Training,A17
+194,194, Omar,Matrouh University,Udemy: Microsoft Power BI Desktop for Business Intelligence,AdMazad
+195,195, Heba,Luxor University,Microsoft Learn: Power BI Certification,CyberTalents
+196,196, Rania,Al-Azhar University,Pluralsight: Power BI Reporting,Integrant
+197,197, Khaled,American University in Cairo (AUC),LearnPowerBI: Complete Guide,ArpuPlus
+198,198, Mona,German University in Cairo (GUC),Simpliv: Microsoft Power BI Essentials,Eitesal
+199,199, Salah,British University in Egypt (BUE),Udemy: Power BI Data Science & Advanced Analytics,Informatique Egypt
+200,200, Hala,Misr University for Science and Technology (MUST),[CIW: Microsoft Power BI Analytics](https://www.ciwcertified.com/,NTG Clarity Networks
+201,201, Adel,Misr International University (MIU),Microsoft Certified: Data Analyst Associate,TransIT
+202,202, Nadia,Cairo University,Coursera: Analyzing and Visualizing Data with Power BI,Raye9
+203,203, Tamer,Cairo University,Udemy: Microsoft Power BI - A Complete Introduction,Yomken
+204,204, Mariam,Cairo University,EdX: Analyzing and Visualizing Data with Power BI,Smart Village Egypt
+205,205, Hossam,Cairo University,Pluralsight: Power BI Data Modeling,Giza Systems
+206,206, Fatima,Cairo University,LinkedIn Learning: Power BI Essential Training,TAQA Arabia Digital Solutions
+207,207, Youssef,Cairo University,Simplilearn: Power BI Certification Training Course,Enova by Veolia Egypt
+208,208, Omar,Cairo University,DataCamp: Introduction to Power BI,Evolvice
+209,209, Heba,Cairo University,Udacity: Power BI for Business Analytics,Genix Digital Solutions
+210,210, Rania,Cairo University,Skillshare: Learning Microsoft Power BI Desktop,Shield Consultancy
+211,211, Khaled,Cairo University,Great Learning: Power BI for Beginners,ITWorx
+212,212, Mona,Cairo University,IBM Power BI Professional Certificate on Coursera,Orange Egypt
+213,213, Salah,Cairo University,369 Data Science: Power BI Course,Vodafone Egypt
+214,214, Hala,Cairo University,MindMajix: Microsoft Power BI Training,Etisalat Misr
+215,215, Adel,Cairo University,Intellipaat: Power BI Certification Training,Telecom Egypt
+216,216, Nadia,Cairo University,Whizlabs: Microsoft Power BI Certification,Xceed Contact Center
+217,217, Tamer,Cairo University,GreyCampus: Power BI Certification Training,Sumerge
+218,218, Mariam,Cairo University,FutureLearn: Microsoft Power BI for Beginners,Valeo Egypt
+219,219, Hossam,Cairo University,ProjectPro: Power BI Certification Training,Raya Holding
+220,220, Fatima,Cairo University,Khan Academy: Power BI Tutorials,Link Development
+221,221, Youssef,Cairo University,Alison: Microsoft Power BI Introduction,Mentor Graphics Egypt
+222,222, Omar,Cairo University,Academy Europe: Microsoft Power BI Course,Si-Ware Systems
+223,223, Heba,Cairo University,Udemy: Power BI DAX Masterclass,Intel Egypt
+224,224, Rania,Cairo University,Coursera: Microsoft Power BI Guided Project,Microsoft Egypt
+225,225, Khaled,Cairo University,KPMG: Microsoft Power BI Foundations,IBM Egypt
+226,226, Mona,Cairo University,Cybrary: Power BI Beginner Training,Dell Technologies Egypt
+227,227, Salah,Cairo University,Pluralsight: Power BI Desktop Playbook,Oracle Egypt
+228,228, Hala,Cairo University,Skillsoft: Power BI Reports and Dashboards,SAP Egypt
+229,229, Adel,Cairo University,Coursera: Getting Started with Power BI,Hewlett Packard Enterprise (HPE) Egypt
+230,230, Nadia,Ain Shams University,Edureka: Power BI Training,Huawei Egypt
+231,231, Tamer,Assiut University,QuickStart: Microsoft Power BI Training,Ericsson Egypt
+232,232, Mariam,Mansoura University,Learning Tree: Microsoft Power BI Certification,WE (Telecom Egypt)
+233,233, Hossam,Zagazig University,Springboard: Power BI Data Analysis Certificate,Vodafone International Services (VIS)
+234,234, Mohamed,Tanta University,Udemy: Power BI Advanced Dashboard Techniques,Asset Technology Group
+235,235, Salma,Helwan University,IBM: IBM Skills Academy Power BI,Instabug
+236,236, Khaled,Benha University,LinkedIn Learning: Power BI Data Analysis,Cequens
+237,237, Fatima,Minia University,Analyst Academy: Power BI Certification,Fawry
+238,238, Ahmed,Suez Canal University,Maven Analytics: Power BI Certification Path,Trella
+239,239, Mona,South Valley University,Coursera: Power BI Desktop for Beginners,Souq.com (Amazon Egypt)
+240,240, Youssef,Fayoum University,CodeAcademy: Power BI Data Visualization,Vezeeta
+241,241, Nadine,Kafr El Sheikh University,DataQuest: Power BI Certificate,SWVL
+242,242, Hossam,Beni-Suef University,Koenig Solutions: Microsoft Power BI Certification,Inmobly
+243,243, Dalia,Ain Shams University,Qlik: Microsoft Power BI Training,Halan
+244,244, Tamer,Assiut University,Udemy: Microsoft Power BI Desktop for Business Intelligence,Elmenus
+245,245, Sofia,Mansoura University,Microsoft Learn: Power BI Certification,MaxAB
+246,246, Omar,Zagazig University,Pluralsight: Power BI Reporting,Edfa3ly
+247,247, Mariam,Tanta University,LearnPowerBI: Complete Guide,Nafham
+248,248, Rami,Helwan University,Simpliv: Microsoft Power BI Essentials,Cairosource
+249,249, Sara,Benha University,Udemy: Power BI Data Science & Advanced Analytics,Wuzzuf
+250,250, Adel,Minia University,[CIW: Microsoft Power BI Analytics](https://www.ciwcertified.com/,BasharSoft
+251,251, Heba,Suez Canal University,Microsoft Certified: Data Analyst Associate,Eventtus
+252,252, Youssef,South Valley University,Coursera: Analyzing and Visualizing Data with Power BI,Innovera
+253,253, Nadia,Fayoum University,Udemy: Microsoft Power BI - A Complete Introduction,Raye10
+254,254, Omar,Kafr El Sheikh University,EdX: Analyzing and Visualizing Data with Power BI,AvidBeam
+255,255, Salma,Beni-Suef University,Pluralsight: Power BI Data Modeling,iHub
+256,256, Hossam,Ain Shams University,LinkedIn Learning: Power BI Essential Training,Tawasol
+257,257, Fatima,Assiut University,Simplilearn: Power BI Certification Training Course,b_labs
+258,258, Adel,Mansoura University,DataCamp: Introduction to Power BI,Innoventures
+259,259, Mariam,Zagazig University,Udacity: Power BI for Business Analytics,TA telecom
+260,260, Rania,Tanta University,Skillshare: Learning Microsoft Power BI Desktop,Informatique
+261,261, Khaled,Helwan University,Great Learning: Power BI for Beginners,Tatweer Misr
+262,262, Hala,Benha University,IBM Power BI Professional Certificate on Coursera,Bey2ollak
+263,263, Tamer,Minia University,370 Data Science: Power BI Course,A18
+264,264, Mayar,Suez Canal University,MindMajix: Microsoft Power BI Training,AdMazad
+265,265, Salah,South Valley University,Intellipaat: Power BI Certification Training,CyberTalents
+266,266, Nadia,Fayoum University,Whizlabs: Microsoft Power BI Certification,Integrant
+267,267, Rami,Kafr El Sheikh University,GreyCampus: Power BI Certification Training,ArpuPlus
+268,268, Heba,Beni-Suef University,FutureLearn: Microsoft Power BI for Beginners,Eitesal
+269,269, Omar,Ain Shams University,ProjectPro: Power BI Certification Training,Informatique Egypt
+270,270, Salma,Assiut University,Khan Academy: Power BI Tutorials,NTG Clarity Networks
+271,271, Youssef,Mansoura University,Alison: Microsoft Power BI Introduction,TransIT
+272,272, Mariam,Zagazig University,Academy Europe: Microsoft Power BI Course,Raye10
+273,273, Khaled,Tanta University,Udemy: Power BI DAX Masterclass,Yomken
+274,274, Hala,Helwan University,Coursera: Microsoft Power BI Guided Project,Smart Village Egypt
+275,275, Fatima,Benha University,KPMG: Microsoft Power BI Foundations,Giza Systems
+276,276, Omar,Minia University,Cybrary: Power BI Beginner Training,TAQA Arabia Digital Solutions
+277,277, Salah,Suez Canal University,Pluralsight: Power BI Desktop Playbook,Enova by Veolia Egypt
+278,278, Mona,South Valley University,Skillsoft: Power BI Reports and Dashboards,Evolvice
+279,279, Rania,Fayoum University,Coursera: Getting Started with Power BI,Genix Digital Solutions
+280,280, Tamer,Kafr El Sheikh University,Edureka: Power BI Training,Shield Consultancy
+281,281, Hossam,Beni-Suef University,QuickStart: Microsoft Power BI Training,ITWorx
+282,282, Nadia,Ain Shams University,Learning Tree: Microsoft Power BI Certification,Orange Egypt
+283,283, Adel,Assiut University,Springboard: Power BI Data Analysis Certificate,Vodafone Egypt
+284,284, Mariam,Mansoura University,Udemy: Power BI Advanced Dashboard Techniques,Etisalat Misr
+285,285, Salma,Zagazig University,IBM: IBM Skills Academy Power BI,Telecom Egypt
+286,286, Hossam,Tanta University,LinkedIn Learning: Power BI Data Analysis,Xceed Contact Center
+287,287, Fatima,Helwan University,Analyst Academy: Power BI Certification,Sumerge
+288,288, Omar,Benha University,Maven Analytics: Power BI Certification Path,Valeo Egypt
+289,289, Rania,Minia University,Coursera: Power BI Desktop for Beginners,Raya Holding
+290,290, Khaled,Suez Canal University,CodeAcademy: Power BI Data Visualization,Link Development
+291,291, Mariam,South Valley University,DataQuest: Power BI Certificate,Mentor Graphics Egypt
+292,292, Hossam,Fayoum University,Koenig Solutions: Microsoft Power BI Certification,Si-Ware Systems
+293,293, Salma,Kafr El Sheikh University,Qlik: Microsoft Power BI Training,Intel Egypt
+294,294, Tamer,Beni-Suef University,Udemy: Microsoft Power BI Desktop for Business Intelligence,Microsoft Egypt
+295,295, Heba,Ain Shams University,Microsoft Learn: Power BI Certification,IBM Egypt
+296,296, Youssef,Assiut University,Pluralsight: Power BI Reporting,Dell Technologies Egypt
+297,297, Mariam,Mansoura University,LearnPowerBI: Complete Guide,Oracle Egypt
+298,298, Omar,Zagazig University,Simpliv: Microsoft Power BI Essentials,SAP Egypt
+299,299, Rania,Tanta University,Udemy: Power BI Data Science & Advanced Analytics,Hewlett Packard Enterprise (HPE) Egypt
+300,300, Khaled,Helwan University,[CIW: Microsoft Power BI Analytics](https://www.ciwcertified.com/,Huawei Egypt
+301,301, Fatima,Benha University,Microsoft Certified: Data Analyst Associate,Ericsson Egypt
+302,302, Tamer,Minia University,Coursera: Analyzing and Visualizing Data with Power BI,WE (Telecom Egypt)
+303,303, Mona,Suez Canal University,Udemy: Microsoft Power BI - A Complete Introduction,Vodafone International Services (VIS)
+304,304, Adel,South Valley University,EdX: Analyzing and Visualizing Data with Power BI,Asset Technology Group
+305,305, Salma,Fayoum University,Pluralsight: Power BI Data Modeling,Instabug
+306,306, Hossam,Kafr El Sheikh University,LinkedIn Learning: Power BI Essential Training,Cequens
+307,307, Rania,Beni-Suef University,Simplilearn: Power BI Certification Training Course,Fawry
+308,308, Youssef,Ain Shams University,DataCamp: Introduction to Power BI,Trella
+309,309, Mariam,Assiut University,Udacity: Power BI for Business Analytics,Souq.com (Amazon Egypt)
+310,310, Omar,Mansoura University,Skillshare: Learning Microsoft Power BI Desktop,Vezeeta
+311,311, Fatima,Zagazig University,Great Learning: Power BI for Beginners,SWVL
+312,312, Khaled,Tanta University,IBM Power BI Professional Certificate on Coursera,Inmobly
+313,313, Rania,Helwan University,371 Data Science: Power BI Course,Halan
+314,314, Adel,Benha University,MindMajix: Microsoft Power BI Training,Elmenus
+315,315, Heba,Minia University,Intellipaat: Power BI Certification Training,MaxAB
+316,316, Mona,Suez Canal University,Whizlabs: Microsoft Power BI Certification,Edfa3ly
+317,317, Hossam,South Valley University,GreyCampus: Power BI Certification Training,Nafham
+318,318, Salma,Fayoum University,FutureLearn: Microsoft Power BI for Beginners,Cairosource
+319,319, Youssef,Kafr El Sheikh University,ProjectPro: Power BI Certification Training,Wuzzuf
+320,320, Tamer,Beni-Suef University,Khan Academy: Power BI Tutorials,BasharSoft
+321,321, Mariam,Ain Shams University,Alison: Microsoft Power BI Introduction,Eventtus
+322,322, Rania,Assiut University,Academy Europe: Microsoft Power BI Course,Innovera
+323,323, Fatima,Ain Shams University,Udemy: Power BI DAX Masterclass,Raye11
+324,324, Hossam,Assiut University,Coursera: Microsoft Power BI Guided Project,AvidBeam
+325,325, Salma,Mansoura University,KPMG: Microsoft Power BI Foundations,iHub
+326,326, Youssef,Zagazig University,Cybrary: Power BI Beginner Training,Tawasol
+327,327, Mona,Beni-Suef University,Pluralsight: Power BI Desktop Playbook,b_labs
+328,328, Khaled,Sohag University,Skillsoft: Power BI Reports and Dashboards,Innoventures
+329,329, Hassan,Port Said University,Coursera: Getting Started with Power BI,TA telecom
+330,330, Salma,Damietta University,Edureka: Power BI Training,Informatique
+331,331, Youssef,Aswan University,QuickStart: Microsoft Power BI Training,Tatweer Misr
+332,332, Mona,Sadat City University,Learning Tree: Microsoft Power BI Certification,Bey2ollak
+333,333, Khaled,New Valley University,Springboard: Power BI Data Analysis Certificate,A19
+334,334, Adel,Arish University,Udemy: Power BI Advanced Dashboard Techniques,AdMazad
+335,335, Heba,Matrouh University,IBM: IBM Skills Academy Power BI,CyberTalents
+336,336, Mariam,Luxor University,LinkedIn Learning: Power BI Data Analysis,Integrant
+337,337, Omar,Al-Azhar University,Analyst Academy: Power BI Certification,ArpuPlus
+338,338, Rania,American University in Cairo (AUC),Maven Analytics: Power BI Certification Path,Eitesal
+339,339, Youssef,German University in Cairo (GUC),Coursera: Power BI Desktop for Beginners,Informatique Egypt
+340,340, Salma,British University in Egypt (BUE),CodeAcademy: Power BI Data Visualization,NTG Clarity Networks
+341,341, Fatima,Misr University for Science and Technology (MUST),DataQuest: Power BI Certificate,TransIT
+342,342, Khaled,Misr International University (MIU),Koenig Solutions: Microsoft Power BI Certification,Raye11
+343,343, Hossam,Cairo University,Qlik: Microsoft Power BI Training,Yomken
+344,344, Mona,Cairo University,Udemy: Microsoft Power BI Desktop for Business Intelligence,Smart Village Egypt
+345,345, Adel,Ain Shams University,Microsoft Learn: Power BI Certification,Giza Systems
+346,346, Rania,Assiut University,Pluralsight: Power BI Reporting,TAQA Arabia Digital Solutions
+347,347, Omar,Mansoura University,LearnPowerBI: Complete Guide,Enova by Veolia Egypt
+348,348, Salma,Zagazig University,Simpliv: Microsoft Power BI Essentials,Evolvice
+349,349, Tarek,Tanta University,Udemy: Power BI Data Science & Advanced Analytics,Genix Digital Solutions
+350,350, Mariam,Helwan University,[CIW: Microsoft Power BI Analytics](https://www.ciwcertified.com/,Shield Consultancy
+351,351, Sameh,Benha University,Microsoft Certified: Data Analyst Associate,ITWorx
+352,352, Khaled,Minia University,Coursera: Analyzing and Visualizing Data with Power BI,Orange Egypt
+353,353, Asmaa,Suez Canal University,Udemy: Microsoft Power BI - A Complete Introduction,Vodafone Egypt
+354,354, Maya,South Valley University,EdX: Analyzing and Visualizing Data with Power BI,Etisalat Misr
+355,355, Osama,Fayoum University,Pluralsight: Power BI Data Modeling,Telecom Egypt
+356,356, Rana,Kafr El Sheikh University,LinkedIn Learning: Power BI Essential Training,Xceed Contact Center
+357,357, Youssef,Beni-Suef University,Simplilearn: Power BI Certification Training Course,Sumerge
+358,358, Hossam,Sohag University,DataCamp: Introduction to Power BI,Valeo Egypt
+359,359, Salma,Port Said University,Udacity: Power BI for Business Analytics,Raya Holding
+360,360, Farah,Damietta University,Skillshare: Learning Microsoft Power BI Desktop,Link Development
+361,361, Mariam,Aswan University,Great Learning: Power BI for Beginners,Mentor Graphics Egypt
+362,362, Khaled,Sadat City University,IBM Power BI Professional Certificate on Coursera,Si-Ware Systems
+363,363, Heba,New Valley University,372 Data Science: Power BI Course,Intel Egypt
+364,364, Zizi,Arish University,MindMajix: Microsoft Power BI Training,Microsoft Egypt
+365,365, Zeinab,Matrouh University,Intellipaat: Power BI Certification Training,IBM Egypt
+366,366, Youssef,Luxor University,Whizlabs: Microsoft Power BI Certification,Dell Technologies Egypt
+367,368, logein,Al-Azhar University,GreyCampus: Power BI Certification Training,Oracle Egypt
+368,369, Hosni,American University in Cairo (AUC),FutureLearn: Microsoft Power BI for Beginners,SAP Egypt
+369,370, Salma,German University in Cairo (GUC),ProjectPro: Power BI Certification Training,Hewlett Packard Enterprise (HPE) Egypt
+370,371, Omar,British University in Egypt (BUE),Khan Academy: Power BI Tutorials,Huawei Egypt
+371,372, Reham,Misr University for Science and Technology (MUST),Alison: Microsoft Power BI Introduction,Ericsson Egypt
+372,373, Khaled,Misr International University (MIU),Academy Europe: Microsoft Power BI Course,WE (Telecom Egypt)
+373,374, Youssef,Cairo University,Udemy: Power BI DAX Masterclass,Vodafone International Services (VIS)
+374,375, Fatima,Cairo University,Coursera: Microsoft Power BI Guided Project,Asset Technology Group
+375,376, Maram,Cairo University,KPMG: Microsoft Power BI Foundations,Instabug
+376,377, Hossam,Cairo University,Cybrary: Power BI Beginner Training,Cequens
+377,378, Salma,Cairo University,Pluralsight: Power BI Desktop Playbook,Fawry
+378,379, Omar,Cairo University,Skillsoft: Power BI Reports and Dashboards,Trella
+379,380, Rahma,Cairo University,Coursera: Getting Started with Power BI,Souq.com (Amazon Egypt)
+380,381, Youssef,Cairo University,Edureka: Power BI Training,Vezeeta
+381,382, Farida,Cairo University,QuickStart: Microsoft Power BI Training,SWVL
+382,383, Manar,Cairo University,Learning Tree: Microsoft Power BI Certification,Inmobly
